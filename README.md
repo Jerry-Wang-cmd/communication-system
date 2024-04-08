@@ -1,1 +1,1 @@
-# communication-system
+# my_study
